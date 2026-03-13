@@ -1,0 +1,66 @@
+[
+  {
+    "id": "1",
+    "name": "City General Hospital",
+    "type": "hospital",
+    "latitude": 28.6139,
+    "longitude": 77.2090,
+    "budget": 50000000,
+    "completionPercentage": 65,
+    "expectedCompletion": "2025-06-30",
+    "description": "A state-of-the-art 500-bed multi-specialty hospital with advanced medical facilities.",
+    "contractor": "BuildTech Infrastructure Pvt Ltd",
+    "civicImpact": "Will serve 200,000+ citizens with quality healthcare. Includes emergency services, ICU, and specialized departments.",
+    "blueprintUrl": null,
+    "modelUrl": "https://modelviewer.dev/shared-assets/models/Astronaut.glb",
+    "updates": [
+      {
+        "title": "Foundation Completed",
+        "description": "Foundation work completed successfully",
+        "date": "2024-01-15",
+        "percentage": 20
+      },
+      {
+        "title": "Structural Work 60% Complete",
+        "description": "Main building structure is taking shape",
+        "date": "2024-06-10",
+        "percentage": 60
+      },
+      {
+        "title": "Interior Work Started",
+        "description": "Interior finishing and equipment installation in progress",
+        "date": "2024-11-20",
+        "percentage": 65
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Green Valley Public School",
+    "type": "school",
+    "latitude": 28.6200,
+    "longitude": 77.2150,
+    "budget": 15000000,
+    "completionPercentage": 80,
+    "expectedCompletion": "2025-03-31",
+    "description": "Modern educational facility with smart classrooms, labs, and sports facilities for 1000 students.",
+    "contractor": "EduBuild Construction Co",
+    "civicImpact": "Will provide quality education to 1000+ students. Features include digital classrooms, science labs, and sports complex.",
+    "blueprintUrl": null,
+    "modelUrl": "https://modelviewer.dev/shared-assets/models/NeilArmstrong.glb",
+    "updates": [
+      {
+        "title": "Building Structure Complete",
+        "description": "All floors constructed",
+        "date": "2024-03-20",
+        "percentage": 50
+      },
+      {
+        "title": "Classroom Setup 80% Done",
+        "description": "Smart boards and furniture being installed",
+        "date": "2024-12-05",
+        "percentage": 80
+      }
+    ]
+  }
+]
